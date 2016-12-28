@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://192.168.19.157/Modules/EleWise.ELMA.Workflow.Processes.Web/WFPWebService.asmx?wsdl" docRef="http://192.168.19.157/Modules/EleWise.ELMA.Workflow.Processes.Web/WFPWebService.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://192.168.19.157/Modules/EleWise.ELMA.Workflow.Processes.Web/WFPWebService.asmx" xmlns:q1="http://www.elma-bpm.ru/WFPWebService/" binding="q1:WFPWebServiceSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://192.168.19.157/Modules/EleWise.ELMA.Workflow.Processes.Web/WFPWebService.asmx" xmlns:q2="http://www.elma-bpm.ru/WFPWebService/" binding="q2:WFPWebServiceSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
